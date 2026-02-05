@@ -8,6 +8,7 @@ I am a developer from Turkey, with proven experience in real-time applications, 
 
 🧠 **I'm currently working on:** Swift UI, Java, Python and C++ projects.
 🌱 **I'm currently learning:** Advanced Swift UI & AI Systems
+
 💬 **Ask me about:** Mobile Apps & Image Processing
 
 ---
@@ -43,5 +44,7 @@ I am a developer from Turkey, with proven experience in real-time applications, 
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="45" height="45"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/>
 </p>
+
+
 ### 📫 Connect with me:
 [LinkedIn](https://www.linkedin.com/in/tolgahan-mestan-kaya-127221254/) | [Email](mailto:mestankaya07@gmail.com)
