@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Junior Software Developer | iOS (Swift UI) / Android (Java)
 
-I am a developer from Turkey,with proven experience in real-time applications, Mobile development (Android/iOS) and AI systems.
+I am a developer from Turkey, with proven experience in real-time applications, Mobile development (Android/iOS) and AI systems.
 
 ---
 
@@ -21,11 +21,26 @@ I am a developer from Turkey,with proven experience in real-time applications, M
 
 ---
 
-### 🛠 Languages-Frameworks-Tools
+### 🛠 Languages - Frameworks - Tools
 
-**Languages:** `C++` `C` `C#` `Python` `Java` `Swift` `SQL`
+**Languages**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+</p>
 
-**Technologies:** `SwiftUI` `Android/Java` `OpenCV` `Firebase` `Git` `YOLOv8`
+**Technologies**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original-wordmark.svg" alt="swiftui" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+</p>
 
 ### 📫 Connect with me:
 [LinkedIn](https://www.linkedin.com/in/tolgahan-mestan-kaya-127221254/) | [Email](mailto:mestankaya07@gmail.com)
